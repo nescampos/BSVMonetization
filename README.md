@@ -1,4 +1,4 @@
-# WebMonetization Generic JS Helper
+# BSVMonetization = WebMonetization Generic JS Helper
 Generic Javascript Helper for implementing [WebMonetization Specification](https://webmonetization.org/) in [Bitcoin SV](https://bitcoinsv.com/) for micropayments to content creators.
 
 ## License
